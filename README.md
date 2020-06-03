@@ -7,6 +7,33 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## Proyecto Blog
+Proyecto realizado netamente en laravel haciendo uso de blade y bootstrap en el frontend.
+- Consta de vista principal donde se listan todos los articulos independientemente del autor.
+- De una seccion para la administracion de los articulos. (CRUD)
+- Validacion por auntenticacion.
+
+## Vista N° 1
+- Captura de la vista principal.
+
+![Captura de la vista principal](https://raw.githubusercontent.com/Doug9507/laravel-blog/master/public/img/main-view.png)
+
+## Vista N°2
+- Captura de la vista de login.
+
+![Captura de la vista de login](https://raw.githubusercontent.com/Doug9507/laravel-blog/master/public/img/login-view.png)
+
+## Vista N°3
+- Captura de la vista de la administracion del blog.
+
+![Captura de la vista de la administracion del blog](https://raw.githubusercontent.com/Doug9507/laravel-blog/master/public/img/blog-manage.png)
+
+## Vista N°4
+- Captura de la vista de la creacion del blog.
+
+![Captura de la vista de la creacion del blog](https://raw.githubusercontent.com/Doug9507/laravel-blog/master/public/img/blog-create.png)
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
